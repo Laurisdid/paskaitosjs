@@ -1,0 +1,17 @@
+{
+  "name": "2-demo10",
+  "version": "1.2.0",
+  "description": "10",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lauris",
+  "license": "ISC10",
+  "devDependencies": {
+    "create-index-html": "^1.5.1",
+    "dead-server": "^1.0.6"
+  }
+}
