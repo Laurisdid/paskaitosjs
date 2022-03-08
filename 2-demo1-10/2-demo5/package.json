@@ -1,14 +1,15 @@
 {
   "name": "2-demo5",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.5",
+  "description": "save5",
   "main": "index.js",
   "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "lauris",
+  "license": "d20",
   "devDependencies": {
     "create-index-html": "^1.5.1",
     "dead-server": "^1.0.6"
