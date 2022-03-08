@@ -1,7 +1,7 @@
 {
   "name": "2-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "saving in git",
   "main": "index.js",
   "scripts": {
     "dev": "dead-server --port=3000 --host=localhost",
