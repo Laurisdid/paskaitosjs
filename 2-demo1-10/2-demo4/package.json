@@ -1,0 +1,17 @@
+{
+  "name": "2-demo4",
+  "version": "1.0.4",
+  "description": "start_save_git_4",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lauris",
+  "license": "pixelmon",
+  "devDependencies": {
+    "create-index-html": "^1.5.1",
+    "dead-server": "^1.0.6"
+  }
+}
